@@ -1,7 +1,3 @@
-Claro, aquí tienes un ejemplo de README para tu aplicación:
-
----
-
 # Gestión de Viviendas
 
 ## Descripción
